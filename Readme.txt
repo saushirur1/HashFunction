@@ -1,5 +1,8 @@
 Readme
 
+This project involves creating a hash function and a collision detector for 
+the hash.
+
 32-bit hash of a file is created according to the following specifications:
 1. Initialize the hash to all zeros;
 2. Scan the file one byte at a time
